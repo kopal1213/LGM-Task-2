@@ -1,0 +1,29 @@
+.card{
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.cards{
+    width: 85%;
+    height: 65%;
+    margin: 6%;
+    padding: .5%;
+    background-color: rgb(13, 106, 246);
+}
+.image{
+    width: 40%;
+    height: 45%;
+    margin: 2%;
+}
+.name{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 1%;
+
+}
+.mail{
+    font-size: 20px;
+    margin-left: 40%;
+    text-align: left;
+}
